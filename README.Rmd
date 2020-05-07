@@ -23,6 +23,6 @@ Download/clone this repository to use [Auriga theme](https://github.com/anishath
 source("build.R")
 ```
 
-# Output
+## Output
 
 ![First page of template.pdf](example.png)
