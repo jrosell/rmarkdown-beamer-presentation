@@ -25,4 +25,4 @@ from R Markdown documents.
 
 ## Output
 
-![First page of template.pdf](example.png)
+[![First page of template.pdf](example.png)](template.pdf)

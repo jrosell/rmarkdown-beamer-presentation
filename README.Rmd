@@ -25,4 +25,4 @@ source("build.R")
 
 ## Output
 
-![First page of template.pdf](example.png)
+[![First page of template.pdf](example.png)](template.pdf)
