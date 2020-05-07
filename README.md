@@ -7,6 +7,8 @@ Download/clone this repository to use [Auriga
 theme](https://github.com/anishathalye/auriga) in Beamer presentations
 from R Markdown documents.
 
+[Example](example.png)
+
 ## Setup
 
 1.  If you don’t have the Hack, Lato, Raleway fonts installed in your
