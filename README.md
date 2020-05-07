@@ -7,8 +7,6 @@ Download/clone this repository to use [Auriga
 theme](https://github.com/anishathalye/auriga) in Beamer presentations
 from R Markdown documents.
 
-![First page of template.pdf](example.png)
-
 ## Setup
 
 1.  If you don’t have the Hack, Lato, Raleway fonts installed in your
@@ -24,3 +22,7 @@ from R Markdown documents.
 <!-- end list -->
 
     source("build.R")
+
+# Output
+
+![First page of template.pdf](example.png)
