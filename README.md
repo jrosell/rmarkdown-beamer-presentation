@@ -23,6 +23,6 @@ from R Markdown documents.
 
     source("build.R")
 
-# Output
+## Output
 
 ![First page of template.pdf](example.png)
